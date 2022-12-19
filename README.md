@@ -1,2 +1,2 @@
 # powerbi
-power bi projects
+power bi projects for analyzing sales performance
